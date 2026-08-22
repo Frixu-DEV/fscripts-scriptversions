@@ -1,1 +1,1 @@
-fscripts-mechanicjob = 2.1
+fscripts-mechanicjob = 2.0
